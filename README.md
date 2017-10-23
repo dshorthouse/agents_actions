@@ -1,4 +1,4 @@
-Agent Actions: Proposed Darwin Core Archive Extension
+Agents Actions: Proposed Darwin Core Archive Extension
 =====================================================
 
 Goal
