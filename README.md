@@ -10,6 +10,11 @@ Background
 Presented at Biodiversity Information Standards (TDWG) annual conference October 1-6, Ottawa, ON, Canada.
 [https://doi.org/10.3897/tdwgproceedings.1.19829](https://doi.org/10.3897/tdwgproceedings.1.19829)
 
+Related Initiatives
+-------------------
+Joint TDWG/RDA group on metadata standards for attribution of physical and digital collection stewardship
+[https://github.com/tdwg/attribution](https://github.com/tdwg/attribution)
+
 Related GitHub Issues
 ---------------------
 
