@@ -1,6 +1,8 @@
 Agents Actions: Proposed Darwin Core Archive Extension
 =====================================================
 
+DEPRECATED IN FAVOUR OF https://github.com/tdwg/attribution/tree/master/agents_actions-master
+
 Goal
 -----
 Create a Darwin Core Archive (DwC-A) extension for use in the [GBIF IPT](https://www.gbif.org/ipt) for collections managers to share granular information about the actions individual people and organizations take when managing physical and digital representations of occurrence data. People and organizations here are represented by recognized URIs such as [ORCIDs](https://orcid.org/), [VIAF](https://viaf.org/), or the [HUH Botanist index](http://kiki.huh.harvard.edu/databases/botanist_index.html).
